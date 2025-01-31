@@ -1,5 +1,7 @@
 W   W EEE L  CCC OOO MM MM EEE
+
 W W W EE  L  C   O O M M M EE
+
 WW WW EEE LL CCC OOO M   M EEE
 
 This is the Broadcom(C) WiFi driver for Linux!
